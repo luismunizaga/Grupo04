@@ -1,0 +1,22 @@
+﻿bd: Tablas de la base de datos.
+
+Cliente(Id_cliente(K), Nombre_cliente, Dirección, Ciudad, País, e-mail, Teléfono, Tipo_cliente)
+
+Pieza(Id_pieza(K), Tipo_pieza, Piso, Tarifa_diaria, Estado)
+Reserva(Id_reserva(K), Id_cliente, Fecha_inicio, Fecha_fin, Estado, Valor_total, Descuento, Valor_final)
+
+Reserva_Pieza(Id-reserva(K), Id_pieza(K))
+Descuento(Tipo(K), Porcentaje)
+
+
+
+Tipo descuento:
+
+V = temporada verano
+
+H = día hábil fuera de temporada
+
+S = fin de semana fuera de temporada
+
+F = feriado
+

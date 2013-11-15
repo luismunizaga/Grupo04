@@ -1,0 +1,4 @@
+﻿req002: Consulta tarifa diaria por habitación.
+
+Despliega pantalla con listado de todas las habitaciones y sus tarifas diarias. 
+Si una habitación está ocupada en la fecha actual, debe aparecer marcada en el listado.

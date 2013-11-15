@@ -1,0 +1,6 @@
+﻿req004: Valor de reserva según días, tipo de pieza, descuento.
+
+Muestra una pantalla con un menú para indicar el tipo de pieza a consultar, luego despliega un listado con todas las habitaciones del tipo indicado y sus tarifas diarias. 
+Si una habitación está ocupada en la fecha actual, debe aparecer marcada en el listado. En cada fila del listado debe aparecer una casilla para ingresar la cantidad de días que se consultan para una habitación dada. Además en la pantalla debe aparecer un menú para asignar un tipo de descuento (*) y un botón “Calcular” para desplegar el valor total de la consulta. 
+
+(*) Las opciones del menú se deben armar con los registros de la tabla “Descuento”.

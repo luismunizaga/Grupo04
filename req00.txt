@@ -1,0 +1,24 @@
+﻿req00: Requerimiento de usuario.
+
+El hotel LIENTUR necesita desarrollar una aplicación para consultar sobre las piezas disponibles y la reserva de habitaciones. 
+El hotel posee 3 tipos de habitaciones: simple, doble, matrimonial; además reconoce dos tipos de clientes: habituales y esporádicos. 
+Una reserva de habitación debe almacenar los datos del cliente, de la habitación y la cantidad de días que será ocupada. 
+
+El recepcionista del hotel debe poder realizar las siguientes operaciones:
+
+- Obtener un listado de habitaciones disponibles según su tipo.
+
+- Consultar el precio de una habitación según su tipo.
+- Consultar descuentos ofrecidos a clientes habituales.
+
+- Consultar el valor total de una reserva, considerando el tipo de habitación.
+
+- Ingresar y eliminar reservas.
+
+El administrador debe realizar las siguientes operaciones:
+
+- Cambiar el precio de las habitaciones (individual o por tipo).
+
+- Cambiar el valor de los descuentos ofrecidos a clientes habituales.
+
+- Estimar las ganancias del mes actual, en base a las reservas realizadas.

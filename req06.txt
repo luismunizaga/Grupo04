@@ -1,0 +1,7 @@
+﻿req006: Eliminación de reserva.
+
+Despliega pantalla y solicita ingreso de Id-reserva (valida si existe en la BD). Si encuentra la reserva, muestra los datos en pantalla y valida que la fecha de inicio no sea menor que la fecha actual.
+
+Luego el sistema muestra un botón Eliminar y un botón Cancelar. Si se pulsa el botón Eliminar, se cambia el estado de la reserva a “E” - eliminada y se imprime un comprobante para entregar al cliente.
+
+Si se pulsa el botón Cancelar, se vuelve al menú principal.

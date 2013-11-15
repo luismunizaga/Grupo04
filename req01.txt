@@ -1,0 +1,7 @@
+﻿req001: Consulta de habitaciones disponibles.
+
+Despliega pantalla de ingreso de datos: Id-cliente (si no está registrado, se debe ingresar a la BD), Fecha inicio, Fecha fin, cantidad de personas, botón Aceptar.
+
+El sistema compara la fechas ingresadas, con las existentes en la BD (tabla de reservas), luego muestra una lista de las piezas disponibles dentro del rango de fechas ingresado. El sistema muestra el valor diario y total de cada pieza. 
+El sistema debe validar que las piezas seleccionadas tengan la capacidad necesaria para la cantidad de personas indicada.
+Luego el sistema muestra un botón Cancelar para volver al menú principal.

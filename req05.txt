@@ -1,0 +1,8 @@
+﻿req005: Registro de reserva.
+
+Despliega pantalla de ingreso de datos: Id-cliente (si no está registrado, se debe ingresar a la BD), Fecha inicio, Fecha fin, cantidad de personas, botón Aceptar.
+
+El sistema compara la fechas ingresadas, con las existentes en la BD (tabla de reservas), luego muestra una lista de las piezas disponibles dentro del rango de fechas ingresado. 
+El sistema muestra el valor diario y total de cada pieza, además por cada pieza muestra un checkbox para seleccionar las piezas que se reservarán, y una vez seleccionadas el sistema muestra el valor total de la reserva, incluyendo el descuento si se trata de un cliente preferencial. El sistema debe validar que las piezas seleccionadas tengan la capacidad necesaria para la cantidad de personas indicada.
+Luego el sistema muestra un botón Reservar y un botón Cancelar. 
+Si se pulsa el botón Reservar, los datos se graban en la BD (se le asigna un Nº secuencial único y la reserva queda con estado “V” - vigente) y se imprime un comprobante para entregar al cliente.

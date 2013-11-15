@@ -1,0 +1,10 @@
+﻿MR01: Solicitud de modificación.
+
+El usuario/cliente desea modificar el sistema para poder calcular el costo total final de una reserva para facturar al cliente, pero ahora debe incluir los consumos que realizan los clientes durante su estadía en el hotel (almuerzo, cena, etc.). Considerar lo siguiente:
+
+Todo consumo se debe asociar al Nº de reserva respectivo del cliente.
+
+El sistema deberá calcular el costo de la estadía (considerando descuentos), más el costo de todos los consumos asociados al Nº de reserva.
+
+Cada consumo se debe identificar con un Nº único, además de indicar la fecha, el detalle del consumo y el valor. 
+Cada consumo quedará respaldado por un comprobante físico firmado por el cliente.

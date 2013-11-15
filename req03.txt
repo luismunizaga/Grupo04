@@ -1,0 +1,3 @@
+req003: Consulta de descuentos.
+
+Despliega pantalla con listado con los datos de los descuentos registrados en la base de datos.
