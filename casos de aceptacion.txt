@@ -1,0 +1,32 @@
+
+
+
+request 00
+
+el ususario obtendra un listado de precios con los menus disponibles.
+
+ caso 1 el menu se actulizara de forma constante
+ caso 2 el menu incluira descuentos aplicados a clientes frecuentes 
+ caso 3 el menu incluira costos totales
+ caso 4 si el menu no se actualiza en tiempo preciso mostrara precios anteriores.
+
+
+request 01 
+
+ caso 1 el sistema mostrara la cantidad de personas que ocupan una habitacion para una mejor organizacion si es que hay mucha asistencia de publico
+ caso 2 el sistema permitira reingresar al mismo mediante un boton cancelar con el objetivo de que el sistema este siempre funcionando
+ 
+request 02
+
+ caso 1 listado muestra habitaciones disponibles facilitando su arriendo si hay una demanda mayor de lo frecuente
+ caso 2 si se solicita un listado con los precios tambien  los emitira actualizados agilizando los cobros.
+
+request 03
+
+ caso 1 si se necesita una lista con descuentos registrados esta la enviara.
+
+request 04 
+
+ caso 1 si se necesita calcular el costo de las habitaciones con descuentos este emitira un listado.
+
+ 

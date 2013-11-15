@@ -1,9 +1,10 @@
 ﻿bd: Tablas de la base de datos.
 
+Consumo(Id_consumo,fecha_consumo,detalle_consumo,valor_consumo)
 Cliente(Id_cliente(K), Nombre_cliente, Dirección, Ciudad, País, e-mail, Teléfono, Tipo_cliente)
 
 Pieza(Id_pieza(K), Tipo_pieza, Piso, Tarifa_diaria, Estado)
-Reserva(Id_reserva(K), Id_cliente, Fecha_inicio, Fecha_fin, Estado, Valor_total, Descuento, Valor_final)
+Reserva(Id_reserva(K), Id_cliente, Fecha_inicio, Fecha_fin, Estado, Valor_total, Descuento, Valor_final,Id_consumo)
 
 Reserva_Pieza(Id-reserva(K), Id_pieza(K))
 Descuento(Tipo(K), Porcentaje)

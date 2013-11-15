@@ -1,0 +1,7 @@
+El análisis conlleva la relación de impacto relacionada con el ámbito de ejecución de la modificación requerida. Se contempla la especificación de usuario para los costos asociados.
+
+En su ámbito de aplicación tendrá impacto sobre el empleado y agilizará su recepción de clientes al restarle trabajo. Además obteniendo resultados sin errores humanos. Con la modificación requerida se despersonaliza la interacción con el usuario y se tiene menos control del momento de ingreso de dinero.
+
+El requerimiento postergará modificaciones futuras del sistema, al afectar módulos principales donde estos son requeridos. Se estima un retraso promedio de 3 meses en los requerimientos de cambios con un factor de prioridad medio-bajo (de menos  de 30 sobre 100).
+
+La calidad de ejecución del proyecto esta garantiza ante eventuales fallas, y sin costos asociados al contrato inicial entre hotel Lientur y grupo 04, además de incluir capacitación sobre el funcionamiento del sistema para los empleados del hotel estipulado dentro del mismo contrato para asegurar un buen funcionamiento del sistema.

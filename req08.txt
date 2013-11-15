@@ -2,3 +2,5 @@
 
 Muestra una pantalla para ingresar las fechas inicial y final de período a estimar. Luego el sistema revisa la tabla de reservas y suma las tarifas cobradas o por cobrar para todas las reservas dentro del período indicado. 
 El resultado se muestra en pantalla.
+
+(*)el sistema verificara la tabla consumos y añadira el costo al resultado que se muestra en pantalla
